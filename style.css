@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    background-image: url(img/bg_mono.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    color:aquamarine;
+    font-size: 80px;
+    margin-top: 30px;
+}
